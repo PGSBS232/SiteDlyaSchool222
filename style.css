@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+}
+
+.info {
+    text-decoration: none;
+    background-color: navy;
+    border: 1px solid navy;
+    color: white;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+header {
+    border: 5px solid blue;
+    border-radius: 10px;
+}
+
+nav {
+    background-color: navy;
+    padding: 15px;
+    font-size: 25px;
+    color: white;
+}
+
+nav a {
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    color: purple;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.pravila {
+    color: black;
+    border-radius: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    margin: 5px;
+    background-color: #eeff00;
+    text-align: center;
+}
+
+.scam {
+    color: black;
+    border-radius: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    background-color: #00ff73;
+}
+
+h3 {
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+    background-color: #000000;
+}
